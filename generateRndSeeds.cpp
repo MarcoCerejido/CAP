@@ -2,7 +2,6 @@
 #include <vector>
 #include <math.h>
 
-//CAMBBIO PRUEBAR DUROOOOOOOOOOO
 
 #define PI 3.141582f
 
